@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/AtomO">
+    <title>Feed sobre Gastronomía de Córdoba</title>
+    <id>urn:urn:uuid:0abcf123-6e0a-00eb-8569-85747xc130002</id>
+    <updated>2022-0-T19:00:00Z</updated>
+    <link href="https://www.tuscasasrurales.com/blog/comida-tipica-de-cordoba/"/>
+    <subtitle>Página con platos tipicos de Córdoba</subtitle>
+    <category term="Platos tipicos Córdoba"/>
+    <author>
+        <name>Francisco Manuel Moyano Coleto</name>
+        <email>a21mocofr@iesgrancapitan.org</email>
+        <uri>https://github.com/FM-Moyano</uri>
+    </author>
+
+    <entry>
+        <title>Tortilla de Patatas </title>
+        <id>urn:uuid:0ccbc123-6e0a-00eb-8569-85747xc130002</id>
+        <updated>2022-0-T19:00:00Z</updated>
+        <link href="https://www.eldiadecordoba.es/cordoba/Bar-Santos-Cordoba-tortilla_0_1435357028.html"/>
+        <rights type="html"> © 2022 Moyano Coleto Francisco Manuel</rights>
+        <summary>Noticia del bar santos</summary>
+        <author>
+            <name>El día córdoba</name>
+            <email>eldia@eldiadecordoba.com</email>
+        </author>
+        <category term="Noticias"/>
+    </entry>
+
+    <entry>
+        <title>Salmorejo</title>
+        <id>urn:uuid:0ccbc123-6e0a-00eb-8569-85747xc130002</id>
+        <updated>2022-0-T19:00:00Z</updated>
+        <link href="http://salmorejocordobes.com/contenidos/"/>
+        <rights type="html"> © 2022 Moyano Coleto Francisco Manuel</rights>
+        <summary>Cofradía del salmorejo </summary>
+        <author>
+            <name>Cofradía del salmorejo</name>
+            <email>secretaria@salmorejocordobes.com</email>
+        </author>
+        <category term="Cofradía"/>
+    </entry>
+
+    <entry>
+        <title>Flamenquín</title>
+        <id>urn:uuid:0ccbc123-6e0a-00eb-8569-85747xc130002</id>
+        <updated>2022-0-T19:00:00Z</updated>
+        <link href="https://www.recetasdeescandalo.com/flamenquines-cordobeses-caseros-receta-de-tapa-tradicional/"/>
+        <rights type="html"> © 2022 Moyano Coleto Francisco Manuel</rights>
+        <summary>El framenquón cordobes</summary>
+        <author>
+            <name>Receta de escandalo</name>
+            <email>info@recetasdeescandalo.com</email>
+        </author>
+        <category term="Recetas"/>
+    </entry>
+</feed>
